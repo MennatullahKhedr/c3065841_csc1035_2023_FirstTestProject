@@ -9,3 +9,4 @@ This is a new line.
 # Another Header
 
 *More Text*
+This is a new line again
