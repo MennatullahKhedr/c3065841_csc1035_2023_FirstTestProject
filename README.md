@@ -8,3 +8,6 @@ This is a new line.
 Hello, it's Menna.
 
 # Another Header
+
+*More Text*
+This is a new line again
